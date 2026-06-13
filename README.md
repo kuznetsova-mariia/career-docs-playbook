@@ -4,12 +4,31 @@ Practical prompts and guides for writing resumes, CVs, and LinkedIn profiles wit
 
 ## Contents
 
-- [`prompts/00-algorithm.md`](prompts/00-algorithm.md) — the step-by-step algorithm: from a raw achievements dump to a finished resume and LinkedIn profile.
-- [`prompts/01-achievements-numbers.md`](prompts/01-achievements-numbers.md) — metric categories for quantifying engineering achievements.
-- [`prompts/02-power-verbs.md`](prompts/02-power-verbs.md) — action verbs to start every resume bullet with.
-- [`prompts/03-xyz-formula.md`](prompts/03-xyz-formula.md) — Google's XYZ formula for describing achievements.
-- [`prompts/04-linkedin.md`](prompts/04-linkedin.md) — adapting your resume for LinkedIn with the STAR method.
-- [`examples/`](examples/) — sample polished resumes.
+Start here: [`prompts/00-algorithm.md`](prompts/00-algorithm.md) — the
+step-by-step algorithm from a raw achievements dump to a finished resume and
+LinkedIn profile. Then dive into a section:
+
+### Writing your CV — [`prompts/cv-writing/`](prompts/cv-writing/)
+- [`01-achievements-numbers.md`](prompts/cv-writing/01-achievements-numbers.md) — metric categories for quantifying engineering achievements.
+- [`02-power-verbs.md`](prompts/cv-writing/02-power-verbs.md) — action verbs to start every bullet with.
+- [`03-xyz-formula.md`](prompts/cv-writing/03-xyz-formula.md) — Google's XYZ formula for describing achievements.
+- [`04-us-resume-rules.md`](prompts/cv-writing/04-us-resume-rules.md) — US-market resume rules, format, and ready-made LLM prompts.
+
+### Writing your LinkedIn — [`prompts/linkedin-writing/`](prompts/linkedin-writing/)
+- [`01-profile-basics.md`](prompts/linkedin-writing/01-profile-basics.md) — adapting your experience for LinkedIn with the STAR method.
+- [`02-profile-seo.md`](prompts/linkedin-writing/02-profile-seo.md) — headline, About, skills, and making the profile recruiter-findable.
+
+### Running your LinkedIn — [`prompts/linkedin-content/`](prompts/linkedin-content/)
+- [`01-content-and-brand.md`](prompts/linkedin-content/01-content-and-brand.md) — posting, the algorithm, and building a personal brand.
+
+### Job search & career — [`prompts/job-search/`](prompts/job-search/)
+- [`01-cover-letter.md`](prompts/job-search/01-cover-letter.md) — cover letters that argue why you fit.
+- [`02-interview-prep.md`](prompts/job-search/02-interview-prep.md) — company research, answer frameworks, follow-up emails.
+- [`03-networking.md`](prompts/job-search/03-networking.md) — referrals, outreach, and finding hiring managers.
+- [`04-job-search-tactics.md`](prompts/job-search/04-job-search-tactics.md) — where and how to apply (US-flavored).
+- [`05-on-the-job.md`](prompts/job-search/05-on-the-job.md) — growing after you're hired.
+
+[`examples/`](examples/) — sample polished resumes.
 
 ## How to use
 

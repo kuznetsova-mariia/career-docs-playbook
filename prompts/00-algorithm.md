@@ -6,9 +6,9 @@ company (and previous ones, one by one). Don't edit, don't trim — just dump
 everything you did. Save it to a separate file.
 
 ## Step 2. Study the materials
-- Metrics for engineering achievements: `01-achievements-numbers.md`
-- Power verbs: `02-power-verbs.md`
-- The XYZ formula: `03-xyz-formula.md`
+- Metrics for engineering achievements: `cv-writing/01-achievements-numbers.md`
+- Power verbs: `cv-writing/02-power-verbs.md`
+- The XYZ formula: `cv-writing/03-xyz-formula.md`
 
 ## Step 3. Hand it all to Claude
 Send the file with your achievements and say roughly the following:
@@ -29,4 +29,4 @@ and what you're focused on. Without it, the resume will end up "about
 everything and nothing."
 
 ## Step 4. LinkedIn
-After the resume, move on to LinkedIn: `04-linkedin.md`
+After the resume, move on to LinkedIn: `linkedin-writing/01-profile-basics.md`
