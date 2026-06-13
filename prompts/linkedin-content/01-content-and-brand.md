@@ -3,6 +3,10 @@
 Posting builds the visibility that a static profile can't. What the
 algorithm rewards (state of 2026; re-verify before relying on specifics).
 
+## Ready-made prompt: writing viral posts
+A prompt for writing viral LinkedIn posts, by Vanya Doronin:
+https://docs.google.com/document/d/1d_UMUDVp6RLGsuqVOf66IT9rjC3jA3tJOgWyqWKARf0/edit
+
 ## How the algorithm weighs engagement
 Save ×10, share to DMs ×8, comment ×5 (longer weighs more), "see more"
 click ×2 (dwell time), like ×1. Write what people want to save and forward:
