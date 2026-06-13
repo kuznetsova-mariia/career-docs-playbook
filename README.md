@@ -15,8 +15,8 @@ LinkedIn profile. Then dive into a section:
 - [`04-us-resume-rules.md`](prompts/cv-writing/04-us-resume-rules.md) — US-market resume rules, format, and ready-made LLM prompts.
 
 ### Writing your LinkedIn — [`prompts/linkedin-writing/`](prompts/linkedin-writing/)
-- [`01-profile-basics.md`](prompts/linkedin-writing/01-profile-basics.md) — adapting your experience for LinkedIn with the STAR method.
-- [`02-profile-seo.md`](prompts/linkedin-writing/02-profile-seo.md) — headline, About, skills, and making the profile recruiter-findable.
+- [`01-experience.md`](prompts/linkedin-writing/01-experience.md) — describing your work experience: positioning, STAR, per-role, power verbs and metrics.
+- [`02-profile-seo.md`](prompts/linkedin-writing/02-profile-seo.md) — making the profile recruiter-findable: headline, About, skills, keywords, visibility.
 
 ### Running your LinkedIn — [`prompts/linkedin-content/`](prompts/linkedin-content/)
 - [`01-content-and-brand.md`](prompts/linkedin-content/01-content-and-brand.md) — posting, the algorithm, and building a personal brand.

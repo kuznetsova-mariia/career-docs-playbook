@@ -23,8 +23,7 @@ Formula: **Role | Domain / Tech | Value / Impact**
   `Senior QA Engineer` — not `Freelance QA`).
 - Strip appendages: `Marketing Manager International Markets` →
   `Marketing Manager`. Specifics belong in About, Headline, and Skills.
-- Don't leave a gap as emptiness: use LinkedIn's built-in career break,
-  or a stealth-startup entry.
+- Don't leave a gap as emptiness: use LinkedIn's built-in career break.
 
 ## About
 Answer three questions, with keywords and numbers:
@@ -38,8 +37,9 @@ competencies pinned on top. Write skills the way US recruiters search them,
 not literal translations.
 
 ## Experience
-Outcomes, metrics, and action verbs (see `../cv-writing/02-power-verbs.md`). What you did,
-what changed, which tools.
+Filling in each role — positioning, STAR, metrics, action verbs — has its own
+guide: `01-experience.md`. For findability, just make sure each role's
+**title** is searchable (see "Job titles in experience" above).
 
 ## Hygiene
 - Location set and in English; professional photo.

@@ -29,4 +29,4 @@ and what you're focused on. Without it, the resume will end up "about
 everything and nothing."
 
 ## Step 4. LinkedIn
-After the resume, move on to LinkedIn: `linkedin-writing/01-profile-basics.md`
+After the resume, move on to LinkedIn: `linkedin-writing/01-experience.md`
