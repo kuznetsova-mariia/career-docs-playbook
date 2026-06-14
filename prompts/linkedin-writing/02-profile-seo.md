@@ -49,13 +49,14 @@ guide: `01-experience.md`. For findability, just make sure each role's
   search favors local profiles — relevant if you're relocating.
 
 ## Check your visibility: Search Appearances
-https://www.linkedin.com/analytics/search-appearances/ shows how often you
-appeared in search, for which keywords, and from which companies. If the
-keywords aren't yours — you're "not in the market". Re-check after changes.
+Open your profile → **Analytics & tools** → **Search appearances**. It shows
+how often you appeared in search, for which keywords, and from which
+companies. If the keywords aren't yours — you're "not in the market".
+Re-check after changes.
 
 ## Audit with an LLM
-Request your data export at
-https://www.linkedin.com/mypreferences/d/download-my-data (takes ~a day).
+Request your data export (**Settings & Privacy → Data Privacy → Get a copy
+of your data**) — it takes about a day to arrive by email.
 
 **Profile audit** — feed `Profile.csv` and `Skills.csv` with this prompt:
 

@@ -4,8 +4,34 @@ Posting builds the visibility that a static profile can't. What the
 algorithm rewards (state of 2026; re-verify before relying on specifics).
 
 ## Ready-made prompt: writing viral posts
-A prompt for writing viral LinkedIn posts, by Vanya Doronin:
-https://docs.google.com/document/d/1d_UMUDVp6RLGsuqVOf66IT9rjC3jA3tJOgWyqWKARf0/edit
+Paste this to your LLM, then add your raw material. Inspired by Vanya
+Doronin's viral-posts prompt.
+
+> You are my LinkedIn ghostwriter. Write a viral LinkedIn post from the raw
+> material I give you, following these rules strictly:
+>
+> 1. **Hook in the first 8–12 words.** Use one of three types: a personal
+>    action with a number, a recognizable pain with an unexpected cause, or a
+>    counterintuitive fact.
+> 2. **Break the expected pattern in the first third** — a turn like "but the
+>    interesting part is elsewhere", or an admitted mistake.
+> 3. **Concrete numbers and named specifics**, never abstractions ("180
+>    applications", not "many").
+> 4. **One honest, vulnerable moment** — a doubt, a failure, a real lesson.
+>    Not a flawless success story.
+> 5. **Meat**: a concrete situation that actually happened. If it's under
+>    NDA, anonymize the company and extract the principle.
+> 6. **End with one open question** as the CTA. No "like and subscribe", no
+>    hashtags, no links in the body.
+> 7. **200–500 words**, short sentences, generous white space, clean
+>    grammar, minimal emojis.
+> 8. **Sound like me, not like an LLM.** Match my voice from these samples:
+>    [paste 1–2 of your past posts, or describe your tone].
+>
+> My positioning / niche: [e.g. senior/lead software engineer, technical focus].
+> Raw material: [describe what happened, with real details and numbers].
+>
+> Ask me clarifying questions if the material is thin — don't invent facts.
 
 ## How the algorithm weighs engagement
 Save ×10, share to DMs ×8, comment ×5 (longer weighs more), "see more"

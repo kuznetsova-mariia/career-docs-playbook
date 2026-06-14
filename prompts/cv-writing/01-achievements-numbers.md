@@ -1,8 +1,7 @@
 # Metrics for Engineering Achievements
 
 Numbers make achievements comparable and verifiable. All metrics are for a
-specific period. Categories (inspired by Pragmatic Engineer,
-https://www.pragmaticengineer.com):
+specific period. Categories (inspired by Pragmatic Engineer):
 
 ## Money
 - Revenue generated (direct and incremental)

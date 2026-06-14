@@ -21,8 +21,8 @@ Send the file with your achievements and say roughly the following:
 > "I want to grow toward a senior/lead-level software engineer, focused more
 > on technical development"] — my resume must clearly reflect this. Wherever
 > something is unclear, ask clarifying questions — don't make things up.
-> Read about XYZ here:
-> https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-included-1-formula-will-improve-your-odds-of-getting-hired-at-google.html
+> Apply the XYZ formula to every bullet: accomplished [X] as measured by [Y],
+> by doing [Z].
 
 Be sure to replace the positioning block with your own: where you're aiming
 and what you're focused on. Without it, the resume will end up "about

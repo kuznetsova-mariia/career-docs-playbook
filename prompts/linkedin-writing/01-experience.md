@@ -16,11 +16,14 @@ Describe each job separately, not as one wall of text. A reader should be
 able to scan a single position and understand what you did there.
 
 ## Use STAR (condensed)
-Frame each item with the STAR method
-(Situation → Task → Action → Result):
-https://www.resume-now.com/job-resources/interviews/star-method
+Frame each item with the STAR method:
+- **Situation** — the context or problem you faced.
+- **Task** — what you were responsible for in it.
+- **Action** — what you actually did (the bulk of the value; lead here).
+- **Result** — the outcome, ideally with a number.
 
 Keep it tight — a line or two per achievement, not a paragraph of context.
+On LinkedIn, weight the Action and Result; trim the Situation to a few words.
 
 ## Same craft as the resume
 Power verbs and the XYZ formula apply exactly as on the CV:
