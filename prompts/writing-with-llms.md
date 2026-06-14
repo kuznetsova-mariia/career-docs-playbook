@@ -26,6 +26,8 @@ Paste this block into any content prompt as a constraint:
 >   smooth abstractions.
 > - No "Intro → three even points → Conclusion" skeleton, no emoji headers,
 >   no over-polite neutral filler. Cut any sentence that adds no fact.
+> - **Punctuation:** use straight double quotes (") only — never guillemets
+>   («»), and avoid curly/smart quotes. No em-dash pile-ups.
 
 ### Tells to self-check before you ship
 - **Vocabulary:** any word from the banned list above.
