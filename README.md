@@ -6,7 +6,10 @@ Practical prompts and guides for writing resumes, CVs, and LinkedIn profiles wit
 
 Start here: [`prompts/00-algorithm.md`](prompts/00-algorithm.md) — the
 step-by-step algorithm from a raw achievements dump to a finished resume and
-LinkedIn profile. Then dive into a section:
+LinkedIn profile. Read alongside it:
+[`prompts/writing-with-llms.md`](prompts/writing-with-llms.md) — how to prompt
+for good output and how to keep it from reading like generic AI text. Then
+dive into a section:
 
 ### Writing your CV — [`prompts/cv-writing/`](prompts/cv-writing/)
 - [`01-achievements-numbers.md`](prompts/cv-writing/01-achievements-numbers.md) — metric categories for quantifying engineering achievements.
