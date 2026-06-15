@@ -25,17 +25,22 @@ Frame each item with the STAR method:
 Keep it tight — a line or two per achievement, not a paragraph of context.
 On LinkedIn, weight the Action and Result; trim the Situation to a few words.
 
-## Same craft as the resume
-Power verbs and the XYZ formula apply exactly as on the CV:
-- Power verbs — `../cv-writing/02-power-verbs.md`
-- XYZ formula — `../cv-writing/03-xyz-formula.md`
-- Metric categories — `../cv-writing/01-achievements-numbers.md`
+The same STAR framing is what you'll use to tell these stories out loud in
+interviews, so a profile written this way doubles as interview prep — see
+[`../job-search/02-interview-prep.md`](../job-search/02-interview-prep.md).
 
-Every bullet should carry an outcome, a metric, and the tools involved:
-what you did, what changed, which technologies.
+Use STAR here, not the resume's XYZ formula — XYZ is for tight CV bullets,
+STAR for the slightly more narrative LinkedIn entries. Pick one and stay
+consistent; don't mix both in the same profile.
+
+## Same craft as the resume
+The Result in each STAR item should carry a metric, and the tools involved:
+what changed, by how much, with which technologies. For metric ideas, see
+[`../cv-writing/01-achievements-numbers.md`](../cv-writing/01-achievements-numbers.md).
 
 ## Lead with action, not responsibility
 Replace passive, presence-only phrasing — "responsible for", "involved in",
-"supported", "worked on" — with action verbs that show you drove the result:
-**led**, **built**, **executed**, **delivered**, **scaled**. What matters is
-what you *did*, not what you were *assigned to*.
+"supported", "worked on" — with action verbs that show you drove the result.
+Start every line with a power verb; pick from the full categorized list in
+[`../cv-writing/02-power-verbs.md`](../cv-writing/02-power-verbs.md). What
+matters is what you *did*, not what you were *assigned to*.
