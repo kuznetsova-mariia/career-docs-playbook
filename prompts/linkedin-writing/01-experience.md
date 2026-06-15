@@ -29,14 +29,15 @@ The same STAR framing is what you'll use to tell these stories out loud in
 interviews, so a profile written this way doubles as interview prep — see
 [`../job-search/02-interview-prep.md`](../job-search/02-interview-prep.md).
 
-Use STAR here, not the resume's XYZ formula — XYZ is for tight CV bullets,
-STAR for the slightly more narrative LinkedIn entries. Pick one and stay
-consistent; don't mix both in the same profile.
-
 ## Same craft as the resume
-The Result in each STAR item should carry a metric, and the tools involved:
-what changed, by how much, with which technologies. For metric ideas, see
-[`../cv-writing/01-achievements-numbers.md`](../cv-writing/01-achievements-numbers.md).
+Both STAR and the XYZ formula work for LinkedIn, and they layer: STAR shapes
+each story (situation through result), while XYZ tightens the individual
+bullets inside it. The same CV tools apply here:
+- XYZ formula — [`../cv-writing/03-xyz-formula.md`](../cv-writing/03-xyz-formula.md)
+- Metric categories — [`../cv-writing/01-achievements-numbers.md`](../cv-writing/01-achievements-numbers.md)
+
+Every Result should carry a metric and the tools involved: what changed, by
+how much, with which technologies.
 
 ## Lead with action, not responsibility
 Replace passive, presence-only phrasing — "responsible for", "involved in",
