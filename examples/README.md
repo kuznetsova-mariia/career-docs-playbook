@@ -7,3 +7,6 @@ A sample polished resume to model your own on:
   Contact details redacted; [LinkedIn](https://www.linkedin.com/in/mariia-kuznetsova1) is public.
   - [`maria-kuznetsova-qa-resume.md`](maria-kuznetsova-qa-resume.md) — readable Markdown version.
   - [`maria-kuznetsova-qa-resume.docx`](maria-kuznetsova-qa-resume.docx) — Word version.
+
+Resume format inspired by Anna Naumova's resume (Product Manager) —
+[LinkedIn](https://www.linkedin.com/in/naumovaanna/).

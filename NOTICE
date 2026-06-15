@@ -2,23 +2,27 @@
 
 The license in `LICENSE` (Creative Commons Attribution 4.0 International,
 CC BY 4.0) applies to the **original content of this repository** — the
-prompts, guides, structure, and wording authored here.
+prompts, guides, structure, wording, and the author's own sample resume under
+`examples/`.
 
-It does **not** extend to:
+What the license does **not** cover, and the sources behind it:
 
-- **Facts, methods, and ideas.** Techniques such as the STAR method, the XYZ
-  resume formula, action-verb categories, and LinkedIn algorithm mechanics are
-  not owned by this project. They are drawn from public sources and, where a
-  specific source is built on, credited inline — for example, Ivan Doronin for
-  the viral-posts prompt and the 2026 LinkedIn algorithm breakdowns, Pragmatic
-  Engineer for the achievement-metric categories, and Laszlo Bock / Google for
-  the XYZ formula. Facts and methods are not copyrightable; the wording here is.
+- **Facts, methods, and ideas are not owned by this project.** Techniques such
+  as the STAR method, the XYZ resume formula, action-verb categories, and
+  LinkedIn algorithm mechanics are drawn from public sources. Facts and methods
+  are not copyrightable; the specific wording here is. Credits, where a source
+  is built on:
+  - Ivan Doronin — the viral-posts prompt and the 2026 LinkedIn algorithm
+    breakdowns (https://www.linkedin.com/in/ivandoronin/).
+  - Pragmatic Engineer — the achievement-metric categories.
+  - Laszlo Bock / Google — the XYZ resume formula.
+  - Anna Naumova — the format the sample resume is modeled on
+    (https://www.linkedin.com/in/naumovaanna/).
 
-- **Third-party materials.** Any sample documents contributed by their authors
-  (for example, sample resumes under `examples/`) remain the property of those
-  authors and are included for illustration with permission. They are **not**
-  licensed under CC BY 4.0.
+- **Third-party materials**, if any are added later, remain the property of
+  their authors and would not be licensed under CC BY 4.0. The sample resume
+  currently in `examples/` is the repository author's own work, shared under
+  this repository's license.
 
 If you reuse material from this repository, attribute this project per CC BY
-4.0 and respect the separate rights of the third-party materials and original
-sources noted above.
+4.0 and respect the separate sources credited above.
