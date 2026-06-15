@@ -4,7 +4,7 @@ Posting builds the visibility that a static profile can't. What the
 algorithm rewards (state of 2026; re-verify before relying on specifics).
 
 ## Ready-made prompt: writing viral posts
-Paste this to your LLM, then add your raw material. Inspired by Vanya
+Paste this to your LLM, then add your raw material. Inspired by Ivan
 Doronin's viral-posts prompt.
 
 > You are my LinkedIn ghostwriter. Write a viral LinkedIn post from the raw
