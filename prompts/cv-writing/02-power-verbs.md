@@ -18,46 +18,55 @@ optimized, increased / reduced
 
 ## By skill category
 
-**Management:** administered, assigned, chaired, consolidated, coordinated,
-delegated, directed, evaluated, executed, headed, led, organized, oversaw,
-planned, prioritized, produced, recommended, reviewed, scheduled,
-spearheaded, supervised.
+Action verbs help describe the skills you've used to potential employers.
+Starting your resume bullet points with action verbs also keeps your
+descriptions short and powerful.
 
-**Communication:** addressed, arbitrated, authored, collaborated, convinced,
-corresponded, drafted, edited, influenced, interpreted, mediated, moderated,
-negotiated, persuaded, presented, promoted, publicized, reconciled,
-translated, wrote.
+**Management Skills:** administered, analyzed, assigned, attained, chaired,
+consolidated, contracted, coordinated, delegated, developed, directed,
+evaluated, executed, improved, increased, organized, oversaw, planned,
+prioritized, produced, recommended, reviewed, scheduled, strengthened,
+supervised.
 
-**Research:** analyzed, collected, critiqued, diagnosed, evaluated, examined,
-experimented, identified, inspected, investigated, measured, modeled,
-researched, reviewed, summarized, surveyed, tested.
+**Communication Skills:** administered, analyzed, assigned, attained, chaired,
+consolidated, contracted, coordinated, delegated, developed, directed,
+evaluated, executed, improved, increased, organized, oversaw, planned,
+prioritized, produced, recommended, reviewed, scheduled, strengthened,
+supervised.
 
-**Technical:** assembled, automated, built, calculated, deployed, designed,
-developed, devised, engineered, fabricated, installed, maintained, migrated,
-operated, optimized, overhauled, programmed, refactored, repaired, scaled,
-solved, standardized, upgraded.
+**Research Skills:** clarified, collected, critiqued, diagnosed, evaluated,
+examined, extracted, identified, inspected, interpreted, interviewed,
+investigated, organized, reviewed, summarized, surveyed, systematized.
 
-**Teaching:** adapted, advised, clarified, coached, communicated, demystified,
-enabled, encouraged, evaluated, explained, facilitated, guided, informed,
-instructed, mentored, onboarded, set goals, stimulated, trained.
+**Technical Skills:** assembled, built, calculated, computed, designed,
+devised, engineered, fabricated, maintained, operated, overhauled,
+programmed, remodeled, repaired, solved, upgraded.
 
-**Financial:** administered, allocated, analyzed, appraised, audited,
-balanced, budgeted, calculated, computed, forecasted, managed, marketed,
-planned, projected, reconciled, reduced.
+**Teaching Skills:** adapted, advised, clarified, coached, communicated,
+coordinated, demystified, developed, enabled, encouraged, evaluated,
+explained, facilitated, guided, informed, instructed, persuaded, set goals,
+stimulated, trained.
 
-**Creative:** conceptualized, created, customized, designed, established,
-fashioned, founded, illustrated, initiated, instituted, integrated,
-introduced, invented, originated, performed, prototyped, redesigned,
+**Financial Skills:** administered, allocated, analyzed, appraised, audited,
+balanced, budgeted, calculated, computed, developed, forecasted, managed,
+marketed, planned, projected, researched.
+
+**Creative Skills:** acted, conceptualized, created, customized, designed,
+developed, directed, established, fashioned, founded, illustrated, initiated,
+instituted, integrated, introduced, invented, originated, performed, planned,
 revitalized, shaped.
 
-**Helping:** advocated, aided, answered, assisted, clarified, coached,
+**Helping Skills:** assessed, assisted, clarified, coached, counseled,
 demonstrated, diagnosed, educated, expedited, facilitated, familiarized,
-guided, motivated, referred, rehabilitated, represented, resolved, supported.
+guided, motivated, referred, rehabilitated, represented.
 
-**Clerical:** approved, arranged, catalogued, classified, compiled, generated,
-implemented, inspected, monitored, operated, organized, prepared, processed,
-purchased, recorded, retrieved, screened, standardized, systematized,
-tabulated, validated.
+**Clerical or Detail Skills:** approved, arranged, catalogued, classified,
+collected, compiled, dispatched, executed, generated, implemented, inspected,
+monitored, operated, organized, prepared, processed, purchased, recorded,
+retrieved, screened, specified, systematized, tabulated, validated.
+
+**Other Verbs:** achieved, expanded, improved, pioneered, reduced, resolved,
+restored, spearheaded, transformed.
 
 ## Watch-outs
 - Don't reuse the same verb twice on a page — vary it.
