@@ -12,7 +12,7 @@ forward-worthy posts that earn real comments fast.
 Paste this to your LLM, then add your raw material. Inspired by Ivan Doronin's
 viral-posts prompt and his LinkedIn algorithm breakdowns (much of the 2026
 algorithm detail below comes from his work):
-https://www.linkedin.com/in/ivandoronin/
+https://www.linkedin.com/in/ivandoronin/ · Telegram: https://t.me/ivandoronin
 
 > You are my LinkedIn ghostwriter. Write a viral LinkedIn post from the raw
 > material I give you, following these rules strictly:
