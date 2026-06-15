@@ -9,8 +9,10 @@ buries roughly 90% of posts. It no longer counts reactions; it measures how
 forward-worthy posts that earn real comments fast.
 
 ## Ready-made prompt: writing viral posts
-Paste this to your LLM, then add your raw material. Inspired by Ivan
-Doronin's viral-posts prompt.
+Paste this to your LLM, then add your raw material. Inspired by Ivan Doronin's
+viral-posts prompt and his LinkedIn algorithm breakdowns (much of the 2026
+algorithm detail below comes from his work):
+https://www.linkedin.com/in/ivandoronin/
 
 > You are my LinkedIn ghostwriter. Write a viral LinkedIn post from the raw
 > material I give you, following these rules strictly:
