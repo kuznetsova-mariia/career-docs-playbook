@@ -21,8 +21,8 @@ dive into a section:
 - [`01-experience.md`](prompts/linkedin-writing/01-experience.md) — describing your work experience: positioning, STAR, per-role, power verbs and metrics.
 - [`02-profile-seo.md`](prompts/linkedin-writing/02-profile-seo.md) — making the profile recruiter-findable: headline, About, skills, keywords, visibility.
 
-### Running your LinkedIn — [`prompts/linkedin-content/`](prompts/linkedin-content/)
-- [`01-content-and-brand.md`](prompts/linkedin-content/01-content-and-brand.md) — posting, the algorithm, and building a personal brand.
+### Writing LinkedIn posts — [`prompts/linkedin-posts/`](prompts/linkedin-posts/)
+- [`01-writing-posts.md`](prompts/linkedin-posts/01-writing-posts.md) — how to write posts that perform: the 2026 algorithm, formats, hooks, and personal brand.
 
 ### Job search & career — [`prompts/job-search/`](prompts/job-search/)
 - [`01-cover-letter.md`](prompts/job-search/01-cover-letter.md) — cover letters that argue why you fit.

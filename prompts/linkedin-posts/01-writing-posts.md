@@ -1,7 +1,12 @@
-# LinkedIn Content and Personal Brand
+# Writing LinkedIn Posts
 
 Posting builds the visibility that a static profile can't. What the
 algorithm rewards (state of 2026; re-verify before relying on specifics).
+
+The 2026 algorithm decides a post's fate in the first hour — a weak start
+buries roughly 90% of posts. It no longer counts reactions; it measures how
+*attentively* people engage. So everything below optimizes for save-worthy,
+forward-worthy posts that earn real comments fast.
 
 ## Ready-made prompt: writing viral posts
 Paste this to your LLM, then add your raw material. Inspired by Ivan
@@ -34,23 +39,39 @@ Doronin's viral-posts prompt.
 > Ask me clarifying questions if the material is thin — don't invent facts.
 
 ## How the algorithm weighs engagement
-Save ×10, share to DMs ×8, comment ×5 (longer weighs more), "see more"
-click ×2 (dwell time), like ×1. Write what people want to save and forward:
-checklists, breakdowns, personal stories with a takeaway.
+It counts attention, not raw reactions. Save ×10, share to DMs ×8, comment ×5
+(a long comment weighs more than a short one), "see more" click ×2 (dwell
+time), like ×1.
 
 ## Three phases of a post
-1. **0–60 min** — test show to a small slice of your network. 3+ comments in
-   the first hour multiply reach. Reply to comments — replies restart the
-   algorithm.
-2. **1–8 h** — friends of friends; the main growth mechanism.
-3. **8–72 h** — long tail; a good post lives 3–5 days and can hit Suggested.
+1. **0–60 min** — test show to a small slice of your network; this decides the
+   post's fate. 3+ comments in the first hour give about ×5.2 to reach. Reply
+   to every comment — replies restart the algorithm.
+2. **1–8 h** — if the test passed, the post goes to friends of friends. This
+   is the main growth mechanism.
+3. **8–72 h** — long tail; a good post lives 3–5 days and can reach strangers
+   via Suggested. (For comparison, a Facebook post dies in 2–4 hours.)
 
 ## Format
-- Carousel (PDF) — the strongest format; native video under 30 seconds with
-  subtitles; text + a photo of people.
-- External links cut reach hard — put them in comments. Hashtags barely work.
-- Don't edit after publishing (resets the algorithm). One post a day max;
-  three thoughtful posts a week beat seven shallow ones.
+Format affects reach more than topic does.
+- **Carousel (PDF)** — the strongest 2026 format: up to ×17 reach and ×2–3
+  dwell time.
+- **Native video under 30 seconds with subtitles** — about +69% reach,
+  because ~79% watch without sound.
+- **Text + a photo of people** — about +98% more comments.
+- **External link** cuts reach ~60% — put links in comments instead.
+  Hashtags barely work in 2026.
+
+## What the algorithm downranks
+- **Template text from ChatGPT** — it's detected and throttled (see
+  `../writing-with-llms.md` to avoid the tells).
+- **Engagement bait** — "agree? hit like".
+- **Editing after publishing** — resets the algorithm.
+- **Several posts a day** — they compete and cannibalize each other. One a
+  day max; three thoughtful posts a week beat seven shallow ones.
+
+The single best rule: write what people want to save and forward — checklists,
+breakdowns, personal stories with a takeaway. That's why they lead on reach.
 
 ## What makes a post work
 - **Hook in the first 8–12 words.** Three types that work: a personal action
