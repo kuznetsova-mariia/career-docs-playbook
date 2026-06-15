@@ -41,4 +41,7 @@ dive into a section:
 
 ## License
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See
+[`NOTICE`](NOTICE) for what the license covers — it applies to this project's
+original text, not to the facts/methods it draws on or to third-party
+materials.

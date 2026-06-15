@@ -1,0 +1,24 @@
+# NOTICE
+
+The license in `LICENSE` (Creative Commons Attribution 4.0 International,
+CC BY 4.0) applies to the **original content of this repository** — the
+prompts, guides, structure, and wording authored here.
+
+It does **not** extend to:
+
+- **Facts, methods, and ideas.** Techniques such as the STAR method, the XYZ
+  resume formula, action-verb categories, and LinkedIn algorithm mechanics are
+  not owned by this project. They are drawn from public sources and, where a
+  specific source is built on, credited inline — for example, Ivan Doronin for
+  the viral-posts prompt and the 2026 LinkedIn algorithm breakdowns, Pragmatic
+  Engineer for the achievement-metric categories, and Laszlo Bock / Google for
+  the XYZ formula. Facts and methods are not copyrightable; the wording here is.
+
+- **Third-party materials.** Any sample documents contributed by their authors
+  (for example, sample resumes under `examples/`) remain the property of those
+  authors and are included for illustration with permission. They are **not**
+  licensed under CC BY 4.0.
+
+If you reuse material from this repository, attribute this project per CC BY
+4.0 and respect the separate rights of the third-party materials and original
+sources noted above.
