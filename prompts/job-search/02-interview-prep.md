@@ -9,13 +9,13 @@ company, the industry, and the role — and get the offers.
 > Please conduct an in-depth analysis of the company and the role:
 > 1. General information: employees, locations, revenue, products, mission.
 > 2. Market position: competitors, unique value propositions, recent news.
-> 3. Corporate culture: employee reviews (Glassdoor, Reddit), work
-> environment. 4. Role information: responsibilities, required skills,
-> growth opportunities. 5. Industry trends: current trends, challenges,
-> opportunities. 6. Interview preparation: common questions for this role,
-> tips for strong answers, smart questions to ask the interviewer.
-> 7. Additional: interesting facts, recent projects. Provide the information
-> in a well-structured format.
+> 3. Corporate culture: employee reviews (Glassdoor, Reddit), work environment.
+> 4. Role information: responsibilities, required skills, growth opportunities.
+> 5. Industry trends: current trends, challenges, opportunities.
+> 6. Interview preparation: common questions for this role, tips for strong answers, smart questions to ask the interviewer.
+> 7. Additional: interesting facts, recent projects.
+>
+> Provide the information in a well-structured format.
 
 If the company name is generic, add the city, state, or ZIP. Cross-check
 manually: company site (About / Products), Crunchbase (funding), LinkedIn
