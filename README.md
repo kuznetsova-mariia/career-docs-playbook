@@ -28,7 +28,7 @@ dive into a section:
 - [`01-cover-letter.md`](prompts/job-search/01-cover-letter.md) — cover letters that argue why you fit.
 - [`02-interview-prep.md`](prompts/job-search/02-interview-prep.md) — company research, answer frameworks, follow-up emails.
 - [`03-networking.md`](prompts/job-search/03-networking.md) — referrals, outreach, and finding hiring managers.
-- [`04-job-search-tactics.md`](prompts/job-search/04-job-search-tactics.md) — where and how to apply (US-flavored).
+- [`04-us-job-search-tactics.md`](prompts/job-search/04-us-job-search-tactics.md) — where and how to apply, specific to the US market.
 - [`05-on-the-job.md`](prompts/job-search/05-on-the-job.md) — growing after you're hired.
 
 [`examples/`](examples/) — sample polished resumes.

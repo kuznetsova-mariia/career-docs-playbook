@@ -1,4 +1,4 @@
-# Job Search Tactics (US-flavored)
+# US Job Search Tactics
 
 ## It's a numbers game
 - Expect hundreds of applications (400–1000+ is normal); target ~50/day in
