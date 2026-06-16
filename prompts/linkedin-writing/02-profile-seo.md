@@ -64,24 +64,26 @@ of your data**) — it takes about a day to arrive by email.
 > optimize my LinkedIn profile to improve discoverability by recruiters and
 > better reflect my professional expertise. I'm providing two files:
 > Profile.csv (headline, summary, experience, education, certifications) and
-> Skills.csv (skills with endorsements). Please: 1. Identify gaps or
-> underused keywords relevant to my industry, role, and goals. 2. Suggest an
-> improved headline using high-impact keywords. 3. Rewrite my "About" section
-> to make it more compelling, human, and keyword-optimized. 4. Recommend
-> additional relevant skills that are frequently searched in my field.
-> 5. Suggest edits to the experience descriptions to improve keyword
-> alignment. Focus on a recruiter-friendly profile that enhances search
-> visibility while maintaining authenticity.
+> Skills.csv (skills with endorsements). Please:
+> 1. Identify gaps or underused keywords relevant to my industry, role, and goals.
+> 2. Suggest an improved headline using high-impact keywords.
+> 3. Rewrite my "About" section to make it more compelling, human, and keyword-optimized.
+> 4. Recommend additional relevant skills that are frequently searched in my field.
+> 5. Suggest edits to the experience descriptions to improve keyword alignment.
+>
+> Focus on a recruiter-friendly profile that enhances search visibility while
+> maintaining authenticity.
 
 **Network audit** — feed `Connections.csv` with this prompt:
 
 > Analyze the Connections.csv file from my LinkedIn data export to assess the
 > quality, relevance, and strategic value of my professional network.
 > 1. Network composition: break down my connections by industry, job title,
-> seniority, and location; highlight overrepresented and underrepresented
-> areas for my target direction. 2. Strategic alignment: based on my career
-> goal [insert goal], determine how well my network supports it and flag
-> high-impact connections (hiring managers, decision-makers). 3. Actionable
-> recommendations: who to connect with (roles, industries, regions), what
-> content to engage with, whether to prune, and networking tactics to
-> increase visibility among relevant recruiters.
+>    seniority, and location; highlight overrepresented and underrepresented
+>    areas for my target direction.
+> 2. Strategic alignment: based on my career goal [insert goal], determine how
+>    well my network supports it and flag high-impact connections (hiring
+>    managers, decision-makers).
+> 3. Actionable recommendations: who to connect with (roles, industries,
+>    regions), what content to engage with, whether to prune, and networking
+>    tactics to increase visibility among relevant recruiters.
