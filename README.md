@@ -17,9 +17,9 @@ dive into a section:
 - [`03-xyz-formula.md`](prompts/cv-writing/03-xyz-formula.md) — Google's XYZ formula for describing achievements.
 - [`04-us-resume-rules.md`](prompts/cv-writing/04-us-resume-rules.md) — US-market resume rules, format, and ready-made LLM prompts.
 
-### Writing your LinkedIn — [`prompts/linkedin-writing/`](prompts/linkedin-writing/)
-- [`01-experience.md`](prompts/linkedin-writing/01-experience.md) — describing your work experience: positioning, STAR, per-role, power verbs and metrics.
-- [`02-profile-seo.md`](prompts/linkedin-writing/02-profile-seo.md) — making the profile recruiter-findable: headline, About, skills, keywords, visibility.
+### Building your LinkedIn profile — [`prompts/linkedin-profile/`](prompts/linkedin-profile/)
+- [`01-experience.md`](prompts/linkedin-profile/01-experience.md) — describing your work experience: positioning, STAR, per-role, power verbs and metrics.
+- [`02-profile-seo.md`](prompts/linkedin-profile/02-profile-seo.md) — making the profile recruiter-findable: headline, About, skills, keywords, visibility.
 
 ### Writing LinkedIn posts — [`prompts/linkedin-posts/`](prompts/linkedin-posts/)
 - [`01-writing-posts.md`](prompts/linkedin-posts/01-writing-posts.md) — how to write posts that perform: the 2026 algorithm, formats, hooks, and personal brand.
