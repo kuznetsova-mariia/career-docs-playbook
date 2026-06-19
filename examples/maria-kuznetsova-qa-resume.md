@@ -41,7 +41,7 @@ Product: m10 — Azerbaijan's top finance app with 2.5M+ downloads and a
   through monthly 1:1s with each engineer.
 
 ### Senior Software Test Automation Engineer — PashaPay
-*Mar 2024 – now*
+*May 2024 – now*
 - Spearheaded a 6-month ecosystem integration across 4 teams: architected 200+
   automated tests, delivered on schedule with zero critical defects.
 - Optimized CI/CD pipelines for 5 microservices: slashed runtime 50% and
