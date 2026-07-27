@@ -1,6 +1,6 @@
 # Maria Kuznetsova — Senior QA Automation Engineer (sample resume)
 
-Baku, Azerbaijan · [phone] · [email] · www.linkedin.com/in/mariia-kuznetsova1
+Baku, Azerbaijan · [phone] · [email] · https://www.linkedin.com/in/mariiakuznetsova1/
 
 > Sample of a clean, results-driven resume. Contact details are redacted; the
 > LinkedIn URL is public.
